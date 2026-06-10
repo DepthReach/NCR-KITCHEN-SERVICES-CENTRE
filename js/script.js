@@ -1,1 +1,1 @@
-
+console.log('NCR Kitchen Service Centre');
