@@ -462,3 +462,16 @@ margin:auto;
 .anatomy-section{
 margin-bottom:120px;
 }
+.chimney-image{
+width:100%;
+max-width:1000px;
+height:350px;
+object-fit:cover;
+border-radius:25px;
+display:block;
+margin:auto;
+}
+
+.anatomy-section{
+margin-bottom:120px;
+}
