@@ -449,3 +449,16 @@ box-shadow:
 .brand-card:hover h3{
 color:#06b6d4;
 }
+.chimney-image{
+width:100%;
+max-width:1000px;
+height:350px;
+object-fit:cover;
+border-radius:25px;
+display:block;
+margin:auto;
+}
+
+.anatomy-section{
+margin-bottom:120px;
+}
