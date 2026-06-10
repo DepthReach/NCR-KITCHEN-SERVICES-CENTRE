@@ -475,3 +475,16 @@ margin:auto;
 .anatomy-section{
 margin-bottom:120px;
 }
+.brand-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:25px;
+margin-top:40px;
+}
+@media(max-width:768px){
+
+.brand-grid{
+grid-template-columns:1fr;
+}
+
+}
