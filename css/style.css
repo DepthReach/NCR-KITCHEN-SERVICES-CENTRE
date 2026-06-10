@@ -960,3 +960,21 @@ appearance:none;
 -moz-appearance:none;
 cursor:pointer;
 }
+nav a{
+position:relative;
+}
+
+nav a::after{
+content:'';
+position:absolute;
+left:0;
+bottom:-5px;
+width:0;
+height:2px;
+background:#06b6d4;
+transition:.3s;
+}
+
+nav a:hover::after{
+width:100%;
+}
