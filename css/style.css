@@ -447,6 +447,15 @@ box-shadow:
 }
 
 .brand-card:hover h3{
+.brand-card:hover{
+transform:
+translateY(-10px)
+rotateX(8deg)
+scale(1.03);
+
+box-shadow:
+0 30px 60px rgba(0,0,0,.15);
+}  
 color:#06b6d4;
 }
 .chimney-image{
