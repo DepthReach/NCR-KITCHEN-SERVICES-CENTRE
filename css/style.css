@@ -11,11 +11,13 @@ scroll-behavior:smooth;
 body{
 font-family:'Segoe UI',sans-serif;
 background:
+background:
 linear-gradient(
 180deg,
-#eef6fb 0%,
-#e8f4ff 50%,
-#eef6fb 100%
+#07111f 0%,
+#0f172a 35%,
+#111827 70%,
+#07111f 100%
 );color:#111827;
 line-height:1.7;
 }
