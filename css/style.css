@@ -10,8 +10,13 @@ scroll-behavior:smooth;
 
 body{
 font-family:'Segoe UI',sans-serif;
-background:#f8fafc;
-color:#111827;
+background:
+linear-gradient(
+180deg,
+#eef6fb 0%,
+#e8f4ff 50%,
+#eef6fb 100%
+);color:#111827;
 line-height:1.7;
 }
 
